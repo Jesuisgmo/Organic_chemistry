@@ -12,3 +12,5 @@ The reaction that happens is the simplest one – deprotonation of SH, to provid
 Also, the pKa table tells you about leaving group ability. Good leaving groups are weak bases!
 
 ![illustration](https://cdn.masterorganicchemistry.com/wp-content/uploads/2019/11/1-pka-table-long-going-from-strongest-to-weakest-acid-introductory-organic-chemistry-showing-conjugate-bases.gif)
+
+Source: https://www.masterorganicchemistry.com/2010/06/18/know-your-pkas/
